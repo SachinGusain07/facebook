@@ -2,4 +2,11 @@
     color:blue;
     font-size:22px;
     text-align :center;
+
+}
+.text{
+    display: grid;
+    gap:2rem;
+    padding: 1rem;
+
 }
