@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './Det.css'
 function Det() {
   return (
     <div>
