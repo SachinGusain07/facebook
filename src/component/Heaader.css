@@ -1,10 +1,8 @@
-.cont{
-    color:blue;
-    font-size:22px;
-    text-align :center;
+.fb{
+  width: 15rem;
+  margin-left: 39rem;
+  
 }
-.text{
-    display: grid;
-    gap:2rem;
-    padding: 1rem;
+header{
+  height: 5rem;
 }

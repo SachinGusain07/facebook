@@ -1,10 +1,13 @@
+import React from 'react'
 
 import './Heaader.css'
 function Header() {
   return (
     <div className="cont">
         <header>
-     <h1>facebook </h1>
+         
+          <img src="https://static.xx.fbcdn.net/rsrc.php/yI/r/4aAhOWlwaXf.svg" className='fb' alt="no img" />
+          
      </header>
       
     </div>

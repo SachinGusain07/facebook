@@ -1,0 +1,60 @@
+.text{
+    display: grid;
+    gap:1.4rem;
+    width: 380px;
+    height:130px;
+    background-color:#ffffff82;
+    color: aliceblue;
+   
+    margin-left: 0.5rem;
+    margin-bottom: 1rem;
+    
+}
+
+section{
+    border:3px solid rgba(3, 3, 3, 0.224);
+   
+   width: 399px;
+   margin-left: 33rem;
+   
+   border-radius: 0.5rem;
+   background-color: rgb(255, 255, 255);
+  padding: 80px 0px;
+    
+    
+}
+
+.log{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight: 100;
+}
+.btn{
+    padding: 1rem;
+    width: 380px;
+  
+   
+    background-color: #1877f2;
+    color: aliceblue;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom:1rem ;
+    border-radius: 0.4rem;
+    border: transparent;
+}
+.go{
+    
+    text-align: center;
+   
+   
+    font-size: 1.1rem;
+    
+ 
+}
+h1{
+    position: relative;
+}
+.light{
+    border: 2px solid rgba(65, 62, 62, 0.605);
+    border-radius: 0.3rem;
+}
