@@ -1,5 +1,9 @@
 import React from 'react'
+
+import './Det.css'
+
 import "./Det.css"
+
 function Det() {
   return (
     <div className='conatiner Det_conatiner'>

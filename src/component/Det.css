@@ -1,5 +1,19 @@
 .text{
     display: grid;
+    gap:50px;
+    padding:2px;
+    width:2px;
+
+}
+fieldset{
+   
+    width:400px;
+    height:10rem;
+    
+   margin-left:35rem;
+}
+
+
     gap:1.4rem;
     width: 380px;
     height:130px;
@@ -58,3 +72,4 @@ h1{
     border: 2px solid rgba(65, 62, 62, 0.605);
     border-radius: 0.3rem;
 }
+
