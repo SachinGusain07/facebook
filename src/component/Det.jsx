@@ -6,8 +6,9 @@ function Det() {
       <form action ="#">
     <fieldset>
         <legends>login details</legends>
+        <div className='text'>
  <input type ="text" placeholder="MObile number or Email address"></input>
- <input type ="password" placeholder="password"></input>
+ <input type ="password" placeholder="password"></input></div>
  </fieldset>
 </form>
     </div>

@@ -2,6 +2,9 @@
     color:blue;
     font-size:22px;
     text-align :center;
-    border: 22rem;
-    text-decoration: line-through;
+}
+.text{
+    display: grid;
+    gap:2rem;
+    padding: 1rem;
 }
